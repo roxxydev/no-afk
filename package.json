@@ -1,0 +1,16 @@
+{
+  "name": "no-afk",
+  "version": "1.0.0",
+  "description": "Prevent computer from being idle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh setup.sh"
+  },
+  "author": "Roxxy Rafael",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "1.7.x",
+    "pm2": "3.5.x",
+    "robotjs": "0.5.x"
+  }
+}

@@ -1,0 +1,10 @@
+*.log
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+yarn.lock
+node_modules
+*.iml
+*.class
+target
